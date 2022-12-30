@@ -1,0 +1,93 @@
+
+
+.form_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f5f5f5;
+}
+
+.form_wrapper{
+    width: 400px;
+    padding: 25px 20px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.form_wrapper .form_title{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form_wrapper input{
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.submit_btn_wrapper{
+    text-align: center;
+}
+
+.submit_btn{
+    padding: 8px 15px;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+}
+
+
+/* .login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f5f5f5;
+}
+
+.login .login__container{
+    width: 400px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.login__container__header{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.login .login__container__form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.login__container__form__input label {
+    min-width: 100px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.login__container__form__input input{
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.submit{    
+    text-align: center;
+}
+
+.submit button{
+    padding: 10px 20px;
+    margin: 0 auto;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}  */
